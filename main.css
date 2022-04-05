@@ -1,3 +1,7 @@
+@font-face
+{
+  font-family:Akira Expanded;
+  src: url("Akira Expanded Demo.otf") format('opentype')
 h1
 {
   font-family:Akira Expanded;
