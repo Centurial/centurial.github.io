@@ -3,11 +3,8 @@
   font-family: 'Erica One';
   src: url(EricaOne-Regular.ttf);
 }
-h1
-{
-  font-family:Erica One;
-  color:blue;
-  text-align:center;
-  text-transform:uppercase;
-  
+nav {
+  background: #34cfeb;
+  height: 80px;
+  width: 100%;
 }
