@@ -1,7 +1,10 @@
 @font-face
 {
-  font-family: 'Erica One';
-  src: url(EricaOne-Regular.ttf);
+  font-family: 'Cera Pro';
+  src: url(Cera Pro Bold.otf);
+}
+body {
+  font-family: Cera Pro;
 }
 nav {
   background: #34cfeb;
