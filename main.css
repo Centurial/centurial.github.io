@@ -35,7 +35,7 @@ nav ul li a {
   text-transform: uppercase;
 }
 a.active,a:hover {
-  background:47c2ff;
+  background: #47c2ff;
   transition: .5s;
 } 
 
